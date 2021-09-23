@@ -14,5 +14,6 @@ General overview for school project
   - Edgar Araya
   - Ricardo Catril
   - Sebastían Reyes
+  - Cristobal Román
 - **Tester** 
   - Marcelo Ramirez
